@@ -1,0 +1,6 @@
+{
+  "name": "Clash Pulse - Real-Time Builder & Clan War Tracker",
+  "description": "Real-time Clash of Clans builder progress tracker with instant notification alerts, multi-account syncing, hero upgrade efficiency optimizer, Clan War & Capital Raid stats, and gem economy analytics.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
